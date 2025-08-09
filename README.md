@@ -1,15 +1,15 @@
 # Hey, I'm Niki 👋
 
-**Full-stack & ML dev** | Turning data into engineered solutions | **Fueled by Diet Coke** 🥤
+**Full-stack & ML dev**👩‍💻| Turning data into engineered solutions🌐| **Fueled by Diet Coke** 🥤
 
 ---
 
 ## 🚀 About Me
-- 🎓 Engineering student @ SSNCE  
+- 🎓 CS Engineering student @ SSNCE  
 - 💻 Specializing in **Machine Learning** and **Full-Stack Development**  
-- 🛠 Projects range from flight telemetry analytics to predictive maintenance systems  
+- 🛠 Projects range from data analytics to predictive maintenance systems.
 - ☕ Actually powered by **Diet Coke** (coffee is overrated)  
-- 🧠 I believe in writing code that works *most of the time*  
+- 🧠 I believe in developing applications that works *most of the time*  
 
 ---
 
@@ -52,4 +52,4 @@ Trend forecasting pipeline; feature engineering with moving averages and regress
 
 ---
 
-💡 *“Diet Coke in hand, bugs in the code, and still somehow making it to production.”*
+💡 *“Diet Coke in hand, bugs in the code, and still somehow making it.”*
