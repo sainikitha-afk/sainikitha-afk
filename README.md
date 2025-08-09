@@ -1,4 +1,4 @@
-# Hey, I'm Niki 👋
+# Hey, I'm Nikitha👋
 
 **Full-stack & ML dev**👩‍💻| Turning data into engineered solutions🌐| **Fueled by Diet Coke** 🥤
 
