@@ -8,7 +8,7 @@
 - 🎓 CS Engineering student @ SSNCE  
 - 💻 Specializing in **Machine Learning** and **Full-Stack Development**  
 - 🛠 Projects range from data analytics to predictive maintenance systems.
-- ☕ Actually powered by **Diet Coke** (coffee is overrated)  
+- 🥤 Actually powered by **Diet Coke** (coffee is overrated)  
 - 🧠 I believe in developing applications that works *most of the time*  
 
 ---
